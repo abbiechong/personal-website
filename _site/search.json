@@ -4,20 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Ares Management Corporation, Private Equity Analyst\nVerizon, Cybersecurity Business Solutions Intern"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "",
+    "text": "Ares Management Corporation, Private Equity Analyst\nVerizon, Cybersecurity Business Solutions Intern"
+  },
+  {
+    "objectID": "about.html#academic-experience",
+    "href": "about.html#academic-experience",
+    "title": "About",
+    "section": "Academic Experience",
+    "text": "Academic Experience\n\nRelevant Coursework"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects will be shown here"
+    "text": "Title\n\n\n\n\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/STATS 140XP Final Project.html",
+    "href": "projects/STATS 140XP Final Project.html",
+    "title": "",
+    "section": "",
+    "text": "example project"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Abbie Chong",
     "section": "",
-    "text": "Welcome to my personal website!\nI am an undergraduate student at the University of California, Los Angeles (UCLA) double majoring in Business Economics and Statistics & Data Science.\nAttached is my current resume"
+    "text": "Welcome!\nI am an undergraduate student studying Business Economics and Statistics & Data Science at the University of California, Los Angeles (UCLA).\nAttached is my current resume"
   }
 ]

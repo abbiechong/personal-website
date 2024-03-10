@@ -2,6 +2,11 @@
 title: "About"
 ---
 
-About this site
+## Work Experience
 
+- Ares Management Corporation, Private Equity Analyst
+- Verizon, Cybersecurity Business Solutions Intern
 
+## Academic Experience
+
+- Relevant Coursework

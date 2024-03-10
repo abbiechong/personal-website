@@ -1,5 +1,16 @@
 ---
 title: "Projects"
+listing:
+  - id: projects-listing
+    contents:
+      - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    type: table
+    fields: 
+      - title
+    categories: false
 ---
 
-Projects will be shown here
+:::projects-listing
+:::
