@@ -16,4 +16,4 @@ Welcome!
 
 I am an undergraduate student studying Business Economics and Statistics & Data Science at the University of California, Los Angeles (UCLA).
 
-Attached is my current [resume](resume.pdf "resume")
+Attached is my current [resume](resume.pdf "resume").

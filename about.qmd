@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+My background is in operations strategy and equity investing, with a functional emphasis on data analytics. You can read more about my experience below, or on my [resume](resume.pdf "resume").
+
 ## Work Experience
 
 - Ares Management Corporation, Private Equity Analyst
@@ -10,3 +12,10 @@ title: "About"
 ## Academic Experience
 
 - Relevant Coursework
+  - (Graduate) Monte Carlo Methods for Optimization
+  - Computation and Optimization for Statistics
+  - Statistical Consulting
+  - Advanced Econometrics
+  - Economic Forecasting
+  - Entrepreneurship and Venture Initiation
+- Research Papers

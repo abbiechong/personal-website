@@ -12,5 +12,7 @@ listing:
     categories: false
 ---
 
+Content will be posted soon!
+
 :::projects-listing
 :::
