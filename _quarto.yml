@@ -17,6 +17,9 @@ format:
     css: styles.css
     toc: true
 
+page-footer:
+  right: "&copy; 2024, Abbie Chong"
+
 execute: 
   freeze: auto
 

@@ -14,4 +14,6 @@ image: headshot.JPG
 
 Welcome to my personal website!
 
-I am an undergraduate student at the University of California, Los Angeles (UCLA) currently double majoring in Business Economics and Statistics & Data Science.
+I am an undergraduate student at the University of California, Los Angeles (UCLA) double majoring in Business Economics and Statistics & Data Science.
+
+Attached is my current [resume](resume.pdf "resume")
