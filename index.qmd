@@ -13,3 +13,5 @@ image: headshot.JPG
 ---
 
 Welcome to my personal website!
+
+I am an undergraduate student at the University of California, Los Angeles (UCLA) currently double majoring in Business Economics and Statistics & Data Science.
