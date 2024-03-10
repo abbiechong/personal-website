@@ -10,15 +10,14 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
+  page-footer:
+    right: "&copy; 2024 Abbie Chong"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-page-footer:
-  right: "&copy; 2024, Abbie Chong"
 
 execute: 
   freeze: auto
